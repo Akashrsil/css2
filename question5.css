@@ -1,0 +1,12 @@
+img {
+    top: 150px;
+    left: 450px;
+    position: fixed;
+    border-radius: 50%;
+
+
+}
+
+* {
+    background-color: aquamarine;
+}

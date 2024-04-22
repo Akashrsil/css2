@@ -1,0 +1,19 @@
+.navbar {
+    height: 40px;
+    background-color: rgb(103, 192, 243);
+    color: azure;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+a {
+    margin-right: 60px;
+    margin-left: 20px;
+    color: white;
+}
+
+a:hover {
+    background-color: green;
+}

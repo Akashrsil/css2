@@ -1,0 +1,32 @@
+#box {
+    width: 300px;
+    height: 200px;
+    background-image: url(background.jpg);
+    background-size: cover;
+    display: inline-block;
+    border-radius: 8%;
+    margin-top: 2%;
+    margin-left: 4%;
+}
+
+#background {
+    background-color: rgb(244, 190, 53);
+    width: 330px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 8%;
+    margin-top: 100px;
+    margin-left: 35%;
+
+}
+
+p {
+    display: inline;
+    margin-top: 5px;
+}
+
+n #text {
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 1%;
+}
